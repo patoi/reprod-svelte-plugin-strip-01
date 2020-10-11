@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 *Looking for a shareable component template? Go here --> [sveltejs/component-template](https://github.com/sveltejs/component-template)*
 
 ---
@@ -103,3 +104,7 @@ Then, from within your project folder:
 npm run build
 surge public my-project.surge.sh
 ```
+=======
+# reprod-svelte-plugin-strip-01
+Svelte strip plugin bud regproduction 01
+>>>>>>> 5d2971d80f68f32ce11d83ec255ed7149ca5b1cd
