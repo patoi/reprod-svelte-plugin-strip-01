@@ -14,7 +14,7 @@ unittest: {
 
 `rollup.conf.js`:
 
-```
+```javascript
 import strip from '@rollup/plugin-strip';
 ...
 
