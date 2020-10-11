@@ -15,6 +15,9 @@ unittest: {
 `rollup.conf.js`:
 
 ```
+import strip from '@rollup/plugin-strip';
+...
+
 strip({
   labels: ['unittest']
 }),
