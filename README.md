@@ -2,14 +2,14 @@
 
 This is a project template for [Svelte](https://svelte.dev) apps. It lives at https://github.com/sveltejs/template.
 
-Add next lines for testing purpose:
+## Add next lines for testing purpose
 
 `App.svelte`, code block strip:
 
 ```javascript
-	unittest: {
-		name = 'Strip doesn\'t work'
-	}
+unittest: {
+  name = 'Strip doesn\'t work'
+}
 ```
 
 `rollup.conf.js`:
@@ -20,19 +20,19 @@ strip({
 }),
 ```
 
-Run commands:
+## Run commands
 
 `npm install`
 
 `npm run dev`
 
-Checking:
+## Checking
 
 Visit http://localhost:5000
 
 You see this one, if strip plugin doesn't work: `HELLO STRIP DOESN'T WORK!`
 
-Expected behaviour:
+**Expected behaviour:**
 
 You see this one: `HELLO WORLD!`
 
